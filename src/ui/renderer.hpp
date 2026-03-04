@@ -4,6 +4,7 @@
 #include <string>
 #include <thread>
 #include <vector>
+#include <condition_variable>
 
 #include <GLFW/glfw3.h>
 
